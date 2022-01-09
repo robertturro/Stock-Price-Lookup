@@ -1,2 +1,2 @@
 # Stock-Price-Lookup
-Graphical user interface that uses the Polygon API to find the last close prices and the five month average price for a given stock ticker
+Graphical user interface that uses the Polygon API to find the last close prices and the five month average price for a given stock ticker. The GUI was made using tkinter with Python and all of the code used to get the data was written in python. This program allows a user to input any stock ticker into an input box and will be able to click a button labeled "Find Last Closing Price" and the given stock's last closing price as well as the stock's five month average will be listed. If the user inputs an invalid stock ticker the progam will output "Stock Ticker Does Not Exist".
